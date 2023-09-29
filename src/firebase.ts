@@ -12,13 +12,13 @@ import { getFirestore } from 'firebase/firestore';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDnUu8u1Qb4lmLOHnYsTtAdhR54PVU7VAg",
-  authDomain: "dandelion-app-baf0b.firebaseapp.com",
-  projectId: "dandelion-app-baf0b",
-  storageBucket: "dandelion-app-baf0b.appspot.com",
-  messagingSenderId: "720218051039",
-  appId: "1:720218051039:web:bcf8c9e116e32aea65746a",
-  measurementId: "G-6C6BPEXFJJ"
+  apiKey: "AIzaSyAGA1djohBNOfijbgFlzbolMMQ0uedERIM",
+  authDomain: "discord-clone-cc240.firebaseapp.com",
+  projectId: "discord-clone-cc240",
+  storageBucket: "discord-clone-cc240.appspot.com",
+  messagingSenderId: "336590013425",
+  appId: "1:336590013425:web:c9cade7df38bab60adfa50",
+  measurementId: "G-HLQSHEF14Z"
 };
 
 // Initialize Firebase
